@@ -23,10 +23,20 @@ jupyter lab hhl_algorithm_benchmarking.ipynb
 
 ### Documentation
 
-See [HHL_BENCHMARKING_README.md](HHL_BENCHMARKING_README.md) for detailed documentation, usage instructions, and performance optimization tips.
+- **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - Get started in 5 minutes
+- **[IMPLEMENTATION_RECOMMENDATIONS.md](IMPLEMENTATION_RECOMMENDATIONS.md)** - Which framework and tomography method to use
+- **[HHL_BENCHMARKING_README.md](HHL_BENCHMARKING_README.md)** - Complete documentation and best practices
 
 ### Files
 
-- `hhl_algorithm_benchmarking.ipynb` - Main benchmarking notebook
-- `requirements.txt` - Python dependencies
-- `HHL_BENCHMARKING_README.md` - Comprehensive documentation
+- **Notebooks:**
+  - `hhl_algorithm_benchmarking.ipynb` - Main benchmarking notebook
+  - `hhl_advanced_usage.ipynb` - Advanced examples and GitHub integrations
+
+- **Documentation:**
+  - `QUICK_START_GUIDE.md` - 5-minute quick start
+  - `IMPLEMENTATION_RECOMMENDATIONS.md` - Framework and method selection guide
+  - `HHL_BENCHMARKING_README.md` - Complete reference documentation
+
+- **Configuration:**
+  - `requirements.txt` - Python dependencies
